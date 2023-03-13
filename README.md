@@ -23,7 +23,23 @@ git checkout -b elice // 자신의 이름
 
 ### 제출하기
 
-과제를 다 푸셨다면 제출을 해주시면 됩니다. 제출 시 우리는 **Pull Request** 방법을 사용할 겁니다.
+✖️ 파일 git에 올리는 방법
+1. git 폴더로 cmd 위치를 설정합니다.
+2. 레포지토리를 **클론**해줍니다
+```git
+git clone https://github.com/Elice-sw4-study/week-01 //레포지토리 주소
+```
+3. 생성된 디렉토리에 git에 올릴 파일들을 넣습니다
+4. cmd에서 `git status`로 파일이 제대로 들어갔는지 확인
+5. `git add .`
+6. `git commit -m "메세지"`
+7. `git push`
+8. git push를 작성했을 때 브랜치가 main이 아니라고 뜨면서 `git push --set ~` 어쩌고 뜨면 그대로 따라 쓰기
+-
+
+
+과제를 다 푸셨다면 제출을 해주시면 됩니다. 
+제출 시 우리는 **Pull Request** 방법을 사용할 겁니다.
 
 1. 웹에서 https://github.com/Elice-sw4-study/week-01 창을 켭니다.
 2. 메뉴에서 Pull requests를 눌러줍니다.
@@ -33,8 +49,7 @@ git checkout -b elice // 자신의 이름
 
 ---
 
-이번 주는 **동적 계획법**에 대해서 알아보겠습니다.  
-문제는 다음과 같습니다.
+이번 주 문제는 다음과 같습니다.
 
 ## 🤓 mandatory part
 
