@@ -35,7 +35,7 @@ git clone https://github.com/Elice-sw4-study/week-01 //레포지토리 주소
 6. `git commit -m "메세지"`
 7. `git push`
 8. git push를 작성했을 때 브랜치가 main이 아니라고 뜨면서 `git push --set ~` 어쩌고 뜨면 그대로 따라 쓰기
--
+
 
 
 과제를 다 푸셨다면 제출을 해주시면 됩니다. 
