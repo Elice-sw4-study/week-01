@@ -30,11 +30,12 @@ git checkout -b elice // 자신의 이름
 git clone https://github.com/Elice-sw4-study/week-01 //레포지토리 주소
 ```
 3. 생성된 디렉토리에 git에 올릴 파일들을 넣습니다
-4. cmd에서 `git status`로 파일이 제대로 들어갔는지 확인
-5. `git add .`
-6. `git commit -m "메세지"`
-7. `git push`
-8. git push를 작성했을 때 브랜치가 main이 아니라고 뜨면서 `git push --set ~` 어쩌고 뜨면 그대로 따라 쓰기
+4. ⬆️ 위에 보고 브랜치 만들기!
+5. cmd에서 `git status`로 파일이 제대로 들어갔는지 확인
+6. `git add .`
+7. `git commit -m "메세지"`
+8. `git push`
+9. git push를 작성했을 때 브랜치가 main이 아니라고 뜨면서 `git push --set ~` 어쩌고 뜨면 그대로 따라 쓰기
 
 
 
