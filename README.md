@@ -37,7 +37,9 @@ git clone https://github.com/Elice-sw4-study/week-01 //레포지토리 주소
 8. git push를 작성했을 때 브랜치가 main이 아니라고 뜨면서 `git push --set ~` 어쩌고 뜨면 그대로 따라 쓰기
 
 
+
 ✔️ 과제 **Pull Request** 하기
+
 과제를 다 푸셨다면 제출을 해주시면 됩니다. 
 제출 시 우리는 **Pull Request** 방법을 사용할 겁니다.
 
