@@ -60,7 +60,7 @@ git clone https://github.com/Elice-sw4-study/week-01 //레포지토리 주소
 - [자바스크립트 문제집 Ⅰ](https://swtrack.elice.io/courses/64483/lectures/548288)
 
 ## 🧐 bonus part
-
+- [추가과제 선정](https://www.notion.so/elice/44b57fe0f3714ce0b1e58818cfe08f1e)
 
 
 <br>🔥🔥🔥 모두 파이팅 !!! 🔥🔥🔥
