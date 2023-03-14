@@ -61,6 +61,7 @@ git clone https://github.com/Elice-sw4-study/week-01 //레포지토리 주소
 
 ## 🧐 bonus part
 - [추가과제 선정](https://www.notion.so/elice/44b57fe0f3714ce0b1e58818cfe08f1e)
+- [주차스터디 기록](https://www.notion.so/elice/4263a701c6864977ab31963d292a6a4d)
 
 
 <br>🔥🔥🔥 모두 파이팅 !!! 🔥🔥🔥
