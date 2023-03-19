@@ -1,0 +1,7 @@
+Your branch is up to date with 'origin/dbwjd0319'
+nothing to commit, working tree clean
+
+이라는 문구가 떴다.
+구글링 결과 해당 메세지는 아무것도 변경하지 않았거나 
+무시된 파일을 변경했거나 변경사항이 커밋되지 않아서라고 한다.
+그래서 아무것도 변경되지 않았을 경우 가정하고 추가하는 파일
