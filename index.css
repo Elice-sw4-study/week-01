@@ -1,0 +1,54 @@
+#top{
+    background-color: gray;
+    padding: 20px;
+}
+
+#top >li{
+    display: inline;
+    margin-right:10px;
+}
+
+#top >li >a{
+    color: white;
+    padding: 4px;
+    text-decoration: none;
+
+    transition: background-color 0.3s linear,  letter-spacing 0.3s linear;
+}
+
+#top >li >a:hover{
+    background-color: darkgray;
+    letter-spacing: 4px;
+}
+
+#profile{
+    display: block;
+    margin-top: 20px;
+    padding-left: 30px;
+    width: 100%;
+}
+
+#profile >div> img{
+    width: 200px;
+}
+
+#detail >div{
+    width: 50%;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+
+article{
+    display: flex;
+}
+
+footer {
+    background-color: rgb(231, 229, 229);
+    padding: 40px 10px 10px 10px;
+    color: grey;
+}
+
+footer div{
+    font-size: 12px;
+}
