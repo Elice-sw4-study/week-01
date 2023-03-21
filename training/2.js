@@ -10,10 +10,10 @@ function solution(hour, price, defaultPrice, defaultHour, defaultCost) {
       let hat = price*hour;
       let coder;
   
-      if (hour>defaultHour){
-         coder = (hour-defaultHour)*defaultCost + defaultPrice;
+      if (H>C){
+         coder = (H-C)*D + B;
       } else {
-          coder = defaultPrice;
+          coder = B;
       }
   
       if (coder > hat){
